@@ -1,0 +1,5 @@
+﻿{
+  "yql": "select * from sources * where userQuery();",
+  "query": "machine learning",
+  "ranking": "bm25"
+}
