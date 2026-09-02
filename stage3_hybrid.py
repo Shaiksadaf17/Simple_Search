@@ -148,7 +148,7 @@ dataset = load_dataset(
 )
 
 # Use only 1,000 documents during development.
-dataset = dataset.take(1000)
+dataset = dataset.take(10000)
 
 print("Dataset ready.")
 
